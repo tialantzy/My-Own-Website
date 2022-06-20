@@ -1,11 +1,19 @@
 body {
-    background: #008080;
+    background: #acdbdb;
   }
   h1 {
-    color: peachpuff;
+  
     text-align: center;
   }
   h2 {
-    color: peachpuff;
+
     text-align: center;
   }
+  h3 {
+    padding: 20px;
+ }
+p {
+  padding-left: 20px;
+  padding-right: 20px;
+  color: peru;
+}
