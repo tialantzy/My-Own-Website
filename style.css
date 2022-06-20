@@ -1,3 +1,11 @@
 body {
-    background: blue;
+    background: #008080;
+  }
+  h1 {
+    color: peachpuff;
+    text-align: center;
+  }
+  h2 {
+    color: peachpuff;
+    text-align: center;
   }
